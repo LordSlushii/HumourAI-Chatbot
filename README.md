@@ -14,7 +14,7 @@ _**CONTRIBUTORS**_
 
 
 _**COURSE CREDITS**_
-**Course Link:**  https://www.linkedin.com/learning/openai-api-for-python-developers <
+[Course Link](https://www.linkedin.com/learning/openai-api-for-python-developers)
 **Course Instructor:** https://www.linkedin.com/learning/instructors/sandy-ludosky
 
 **How to run streamlit:**
