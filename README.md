@@ -1,11 +1,11 @@
 **Language:** Python 3.11 
 **Operating Software:** MacOS Sequoia 
 
-### REQUIREMENTS <br/>
-pip install dotenv <br/>
-pip install openai <br/>
-pip install colorama <br/>
-pip install streamlit <br/>
+### REQUIREMENTS 
+> pip install dotenv 
+> pip install openai 
+> pip install colorama 
+> pip install streamlit 
 
 
 ### CONTRIBUTORS <br/>
