@@ -2,7 +2,7 @@
 **Operating Software:** MacOS Sequoia 
 
 _**REQUIREMENTS**_
-pip install dotenv
+pip install dotenv <br/>
 pip install openai
 pip install colorama
 pip install streamlit
