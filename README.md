@@ -14,7 +14,13 @@ _**CONTRIBUTORS**_
 
 
 _**COURSE CREDITS**_
-**Course Link:** 
-> https://www.linkedin.com/learning/openai-api-for-python-developers
-**Course Instructor:**
-> https://www.linkedin.com/learning/instructors/sandy-ludosky
+**Course Link:**  https://www.linkedin.com/learning/openai-api-for-python-developers <
+**Course Instructor:** https://www.linkedin.com/learning/instructors/sandy-ludosky
+
+**How to run streamlit:**
+1. Open terminal
+2. Enter the following prompts
+
+>cd [python folder name]
+
+>streamlit run main.py
