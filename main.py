@@ -21,7 +21,7 @@ if __name__ == "__main__":
             model = 'gpt-3.5-turbo',
             messages = [
 
-                {"role": "system", "content": "act extremely rude"},
+                {"role": "system", "content": "act extremely funny"},
                 {"role": "user", "content" : user_input}
             ],
                     
