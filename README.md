@@ -1,25 +1,25 @@
 **Language:** Python 3.11 
 **Operating Software:** MacOS Sequoia 
 
-_**REQUIREMENTS**_
+###REQUIREMENTS <br/>
 pip install dotenv <br/>
-pip install openai
-pip install colorama
-pip install streamlit
+pip install openai <br/>
+pip install colorama <br/>
+pip install streamlit <br/>
 
 
-_**CONTRIBUTORS**_
-1. Navaneeth Krishna
+###CONTRIBUTORS <br/>
+1. Navaneeth Krishna <br/>
 
 
 
-_**COURSE CREDITS**_
-[Course Link](https://www.linkedin.com/learning/openai-api-for-python-developers)
-[Course Instructor](https://www.linkedin.com/learning/instructors/sandy-ludosky)
+###COURSE CREDITS <br/>
+[Course Link](https://www.linkedin.com/learning/openai-api-for-python-developers) <br/>
+[Course Instructor](https://www.linkedin.com/learning/instructors/sandy-ludosky) <br/>
 
-**How to run streamlit:**
-1. Open terminal
-2. Enter the following prompts
+###How to run streamlit <br/>
+1. Open terminal 
+2. Enter the following prompts 
 
 >cd [python folder name]
 
