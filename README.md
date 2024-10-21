@@ -1,4 +1,4 @@
-**Language:** Python 3.11 
+**Language:** Python 3.11 <br/>
 **Operating Software:** MacOS Sequoia 
 
 ### REQUIREMENTS 
