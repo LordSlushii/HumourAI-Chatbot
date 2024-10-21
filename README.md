@@ -3,9 +3,9 @@
 
 ### REQUIREMENTS 
 > pip install dotenv 
-> pip install openai 
-> pip install colorama 
-> pip install streamlit 
+> openai 
+> colorama 
+> streamlit 
 
 
 ### CONTRIBUTORS <br/>
